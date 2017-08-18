@@ -1,5 +1,19 @@
 {
   "name":"fabiofapeli/code-database",
+  "description": "Code.education repository pattern library based in Laravel",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "repository",
+    "criteria"
+  ],
+  "authors" : [
+    {
+      "name": "Fabio Pereira de Lima",
+      "email": "fabio.fapeli@gmail.com"
+    }
+  ],
+  "homepage": "http://www.cyberway.com.br",
   "require":{
    "illuminate/database": "~5.2.0"
   },
