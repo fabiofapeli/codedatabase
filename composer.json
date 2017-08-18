@@ -1,5 +1,5 @@
 {
-  "name":"codepress/code-database",
+  "name":"fabiofapeli/code-database",
   "require":{
    "illuminate/database": "~5.2.0"
   },
